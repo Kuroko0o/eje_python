@@ -1,7 +1,7 @@
 calculo = input("Ingresar el simbolo de la operación que desea realizar: (+,-,*,/) \n")
 
-num = input("Ingresar el número a calcular: \n")
-num_dos = input("Ingresar el siguiente número a calcular: \n")
+num = input("Ingresar el número entero a calcular: \n")
+num_dos = input("Ingresar el siguiente número entero a calcular: \n")
 try:
     n = int(num)
     nu = int(num_dos)
