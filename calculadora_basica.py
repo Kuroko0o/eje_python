@@ -21,4 +21,4 @@ elif calculo == "/":
     print("El resultado de la división es: \n", n / nu)
 else:
     print ("El valor ingresado no es un simbolo de operación matematica")
-    quit()
+    
