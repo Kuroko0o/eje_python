@@ -1,6 +1,6 @@
-## ¿Que problema tuviste?
+## ¿Qué problema tuviste?
 
 a) Aparece un error al ejecutar
-b) Falta parte del codigo
-c) EL codigo no hace lo que deberia
+b) Falta parte del código
+c) El código no hace lo que deberia
 d) Otros (Especifica):
